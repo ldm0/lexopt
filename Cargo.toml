@@ -1,7 +1,10 @@
 [package]
-name = "lexopt"
+name = "ming"
 version = "0.1.0"
-authors = ["Jan Verbeek <jan.verbeek@posteo.nl>"]
+authors = [
+    "Donough Liu <donoughliu@gmail.com>",
+    "Jan Verbeek <jan.verbeek@posteo.nl>"
+]
 description = "Minimalist pedantic command line parser"
 keywords = ["args", "arguments", "cli", "parser", "getopt"]
 categories = ["command-line-interface"]
